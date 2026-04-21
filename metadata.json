@@ -1,0 +1,6 @@
+{
+  "name": "Multi Video Loop Dashboard",
+  "description": "A high-performance video walls generator. Instantly deploy a single video across 100 synchronized, looping nodes with global playback and mute controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
